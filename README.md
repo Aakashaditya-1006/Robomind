@@ -4,7 +4,7 @@
 
 **Control any robot using plain English. No code required.**
 
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/robomind?style=for-the-badge&color=FFD700)](https://github.com/YOUR_USERNAME/robomind/stargazers)
+[![Stars](https://img.shields.io/github/stars/Aakashaditya-1006/robomind?style=for-the-badge&color=FFD700)](https://github.com/Aakashaditya-1006/robomind/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![Ollama](https://img.shields.io/badge/Powered%20by-Ollama-orange?style=for-the-badge)](https://ollama.com)
@@ -176,7 +176,7 @@ We love contributions! RoboMind is built by the community.
 - 🌐 Add support for a new simulator
 - 🐛 Report or fix bugs
 
-Check our [good first issues](https://github.com/YOUR_USERNAME/robomind/issues?q=is%3Aopen+label%3A%22good+first+issue%22) label!
+Check our [good first issues](https://github.com/Aakashaditya-1006/robomind/issues?q=is%3Aopen+label%3A%22good+first+issue%22) label!
 
 ---
 
@@ -190,7 +190,7 @@ Check our [good first issues](https://github.com/YOUR_USERNAME/robomind/issues?q
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/robomind&type=Date)](https://star-history.com/#YOUR_USERNAME/robomind&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Aakashaditya-1006/robomind&type=Date)](https://star-history.com/#Aakashaditya-1006/robomind&Date)
 
 ---
 
